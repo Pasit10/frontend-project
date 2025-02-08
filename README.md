@@ -22,3 +22,7 @@ npm install
 npm run dev
 ```
 
+
+## Tech Stack
+
+**FrontEnd:**  React.js, Tailwind.css
